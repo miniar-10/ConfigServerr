@@ -6,4 +6,4 @@ eureka:
       defaultZone: http://localhost:8822/eureka/
     renewalPercentThreshold: 0.85
 server:
-  port: 8822
+  port: 9101
